@@ -8,5 +8,9 @@ public class SecondClass {
 //>>>>>>> refs/remotes/origin/master
         System.out.println("Second class change");
         System.out.println("Change in remote");
+        System.out.println("last change");
+
+
+
     }
 }
